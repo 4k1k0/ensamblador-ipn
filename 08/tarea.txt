@@ -1,0 +1,7 @@
+﻿1.-  Todos los caracteres ASCII con sus valores dec y hex
+
+
+2.-  Sume por lo menos 8 números de 1 digito. Imprimir resultados parciales.
+
+
+3.-  Terminar el ejercicio en clase.
